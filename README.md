@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
