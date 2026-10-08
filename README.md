@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [2235-add-two-integers](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
