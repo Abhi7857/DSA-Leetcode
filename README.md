@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhi7857/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2469-convert-the-temperature) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhi7857/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
