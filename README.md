@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
