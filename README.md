@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
