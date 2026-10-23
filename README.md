@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0771-jewels-and-stones](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
