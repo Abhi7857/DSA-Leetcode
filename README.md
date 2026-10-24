@@ -85,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Abhi7857/DSA-Leetcode/tree/master/2413-smallest-even-multiple) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Abhi7857/DSA-Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
